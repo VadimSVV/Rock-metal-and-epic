@@ -1,0 +1,2369 @@
+# Peace:
+music = {
+	name = "Mihail Kostilev To Li Legenda To Li Mif"
+	file = "Mihail_Kostilev_To_Li_Legenda_To_Li_Mif.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Wodkah The Last Butterfly"
+	file = "Wodkah_The_Last_Butterfly.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Withering Sun Indomitable"
+	file = "Withering_Sun_Indomitable.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Privateer Preamble"
+	file = "The_Privateer_Preamble.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Roman Heuser No One Leaves"
+	file = "Roman_Heuser_No_One_Leaves.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Revolt Production Music My Journey"
+	file = "Revolt_Production_Music_My_Journey.ogg"
+	volume = 0.65
+}
+music = {
+	name = "John Dreamer Rise"
+	file = "John_Dreamer_Rise.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Fearless Motivation The Captain"
+	file = "Fearless_Motivation_The_Captain.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Fearless Motivation Revival"
+	file = "Fearless_Motivation_Revival.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Concors Max Cameron Releasing The Beast"
+	file = "Concors_Max_Cameron_Releasing_The_Beast.ogg"
+	volume = 0.65
+}
+music = {
+	name = "GRV Music Audiomachine Motoneuron"
+	file = "GRV_Music_Audiomachine_Motoneuron.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Brickwall Audio Night Hunter"
+	file = "Brickwall_Audio_Night_Hunter.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mark Petrie Surpass"
+	file = "Mark_Petrie_Surpass.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mark Petrie Richat"
+	file = "Mark_Petrie_Richat.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Atom Music Audio Running for It"
+	file = "Atom_Music_Audio_Running_for_It.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Philipp Beesen Heroes"
+	file = "Philipp_Beesen_Heroes.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Night Before a Battle Instrumental"
+	file = "Night_Before_a_Battle_Instrumental.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Jannerwein Instrumental"
+	file = "Jannerwein_Instrumental_I.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Apocalyptica Nothing Else Matters"
+	file = "Apocalyptica_Nothing_Else_Matters.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Skullboogey Another Fool"
+	file = "Skullboogey_Another_Fool.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Avi Kaplan Aberdeen"
+	file = "Avi_Kaplan_Aberdeen.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sleipnir Unbekannter Soldat"
+	file = "Sleipnir_Unbekannter_Soldat.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pretty Maids Little Drops Of Heaven"
+	file = "Pretty_Maids_Little_Drops_Of_Heaven.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mob Rules Sunrise"
+	file = "Mob_Rules_Sunrise.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Seether Fine Again"
+	file = "Seether_Fine_Again.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Saltatio Mortis Nachts weinen die Soldaten"
+	file = "Saltatio_Mortis_Nachts_weinen_die_Soldaten.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bonfire Crazy over You"
+	file = "Bonfire_Crazy_over_You.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Perfect Plan Never Surrender"
+	file = "Perfect_Plan_Never_Surrender.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Perfect Plan Too Late"
+	file = "Perfect_Plan_Too_Late.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Saints N Sinners Lost Horizons"
+	file = "Saints_N_Sinners_Lost_Horizons.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Five Finger Death Punch When The Seasons Change"
+	file = "Five_Finger_Death_Punch_When_The_Seasons_Change.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Five Finger Death Punch Wrong Side of Heaven"
+	file = "Five_Finger_Death_Punch_Wrong_Side_of_Heaven.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Herman Frank Lost in Heaven"
+	file = "Herman_Frank_Lost_in_Heaven.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Theory Of A Deadman Angel"
+	file = "Theory_Of_A_Deadman_Angel.ogg"
+	volume = 0.65
+}
+music = {
+	name = "dArtagnan Wallenstein"
+	file = "dArtagnan_Wallenstein.ogg"
+	volume = 0.55
+}
+music = {
+	name = "dArtagnan Fur immer Dein"
+	file = "dArtagnan_Fur_immer_Dein.ogg"
+	volume = 0.55
+}
+music = {
+	name = "Sonne Hagal Hidden Flame"
+	file = "Sonne_Hagal_Hidden_Flame.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sonne Hagal Who Has Seen The Wind"
+	file = "Sonne_Hagal_Who_Has_Seen_The_Wind.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Rome One Lions Roar"
+	file = "Rome_One_Lions_Roar.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Rome A New Unfolding"
+	file = "Rome_A_New_Unfolding.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Rome The West Knows Best"
+	file = "Rome_The_West_Knows_Best.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lord Of The Lost The Measure of All Things"
+	file = "Lord_Of_The_Lost_The_Measure_of_All_Things.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lord Of The Lost In the Field of Blood"
+	file = "Lord_Of_The_Lost_In_the_Field_of_Blood.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Paul Brady The Forest Rangers Gimme Shelter"
+	file = "Paul_Brady_The_Forest_Rangers_Gimme_Shelter.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Solblot Medborgarsang"
+	file = "Solblot_Medborgarsang.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Johnny Cash Gods Gonna Cut You Down"
+	file = "Johnny_Cash_Gods_Gonna_Cut_You_Down.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Changes We Went to Find the Sun"
+	file = "Changes_We_Went_to_Find_the_Sun.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Darkwood Deutsche Sonnwend"
+	file = "Darkwood_Deutsche_Sonnwend.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Darkwood Der Falken Flug"
+	file = "Darkwood_Der_Falken_Flug.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Me And That Man On the Road"
+	file = "Me_And_That_Man_On_the_Road.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Voyna Obyknovenniy Fashizm"
+	file = "Voyna_Obyknovenniy_Fashizm.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Stas Konopliannikov 6 Rota"
+	file = "Stas_Konopliannikov_6_Rota.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Satisfakciya Ya Ubit Podo Rzhevom"
+	file = "Satisfakciya_Ya_Ubit_Podo_Rzhevom.ogg"
+	volume = 0.60
+}
+music = {
+	name = "UDO Cry Soldier Cry"
+	file = "UDO_Cry_Soldier_Cry.ogg"
+	volume = 0.65
+}
+music = {
+	name = "WASP Heaven Hung in Black"
+	file = "WASP_Heaven_Hung_in_Black.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The White Buffalo Where Is Your Savior"
+	file = "The_White_Buffalo_Where_Is_Your_Savior.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The White Buffalo The House of The Rising Sun"
+	file = "The_White_Buffalo_The_House_of_The_Rising_Sun.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Great White Eye of the Tiger"
+	file = "Great_White_Eye_of_the_Tiger.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Great White Step On You"
+	file = "Great_White_Step_On_You.ogg"
+	volume = 0.95
+}
+music = {
+	name = "Jamie N Commons Glory"
+	file = "Jamie_N_Commons_Glory.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lynyrd Skynyrd Preacher Man"
+	file = "Lynyrd_Skynyrd_Preacher_Man.ogg"
+	volume = 0.65
+}
+music = {
+	name = "John Hiatt Perfectly Good Guitar"
+	file = "John_Hiatt_Perfectly_Good_Guitar.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Billy Valentine All Along the Watchtower"
+	file = "Billy_Valentine_All_Along_the_Watchtower.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Skolot Solnishko"
+	file = "Skolot_Solnishko.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Skolot Podnimi Glaza"
+	file = "Skolot_Podnimi_Glaza.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Billy Ray Cyrus Guns Gold and Guitars"
+	file = "Billy_Ray_Cyrus_Guns_Gold_and_Guitars.ogg"
+	volume = 0.65
+}
+music = {
+	name = "John Mellencamp To The River"
+	file = "John_Mellencamp_To_The_River.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Svarga Na Moem Beregu"
+	file = "Svarga_Na_Moem_Beregu.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Svarga Veter v Ivah"
+	file = "Svarga_Veter_v_Ivah.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sergiy Vasiluk U Nebi Vilnogo Vitru"
+	file = "Sergiy_Vasiluk_U_Nebi_Vilnogo_Vitru.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Forseti Wind"
+	file = "Forseti_Wind.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bob Dylan Masters of War"
+	file = "Bob_Dylan_Masters_of_War.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Alisa Trassa E-95"
+	file = "Alisa_Trassa_E-95.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Faun Blaue Stunde"
+	file = "Faun_Blaue_Stunde.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Faun Walpurgisnacht"
+	file = "Faun_Walpurgisnacht.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sturmwehr Our Fate"
+	file = "Sturmwehr_Our_Fate.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sturmwehr Freundschaft"
+	file = "Sturmwehr_Freundschaft.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sturmwehr Patriot"
+	file = "Sturmwehr_Patriot.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Fumes Seven Year Itch"
+	file = "The_Fumes_Seven_Year_Itch.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Brothers Bright Blood On My Name"
+	file = "The_Brothers_Bright_Blood_On_My_Name.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Blutbanner Sturz des Blutgerichts"
+	file = "Blutbanner_Sturz_des_Blutgerichts.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Blutbanner 1942"
+	file = "Blutbanner_1942.ogg"
+	volume = 0.65
+}
+
+
+# War:
+music = {
+	name = "Louis Viallet Adrenaline"
+	file = "Louis_Viallet_Adrenaline.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mark Petrie Aurora"
+	file = "Mark_Petrie_Aurora.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Brian Tyler Choker"
+	file = "Brian_Tyler_Choker.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kari Sigurdsson Ascension"
+	file = "Kari_Sigurdsson_Ascension.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Monolith Instrumental"
+	file = "Monolith_Instrumental.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mihail Kostilev Stoyat Namertvo"
+	file = "Mihail_Kostilev_Stoyat_Namertvo.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Zywiolak Andrius Klimka Andrey Kulik Studzianki"
+	file = "Zywiolak_Andrius_Klimka_Andrey_Kulik_Studzianki.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Gleipnir Combat"
+	file = "Gleipnir_Combat.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Alpine Hock Tonight We Fight"
+	file = "Alpine_Hock_Tonight_We_Fight.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Alpine Hock Feudal Attitude"
+	file = "Alpine_Hock_Feudal_Attitude.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Full Strike We will rise"
+	file = "Full_Strike_We_will_rise.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Full Strike Master of my soul"
+	file = "Full_Strike_Master_of_my_soul.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Full Strike Force Of The World"
+	file = "Full_Strike_Force_Of_The_World.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Noplies Break the Silence"
+	file = "Noplies_Break_the_Silence.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Noplies City of Crime"
+	file = "Noplies_City_of_Crime.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Noplies Colors"
+	file = "Noplies_Colors.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Human Fortress Defenders of the Crown"
+	file = "Human_Fortress_Defenders_of_the_Crown.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Storm Force Ringside"
+	file = "Storm_Force_Ringside.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Storm Force Age of Fear"
+	file = "Storm_Force_Age_of_Fear.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Storm Force Weight of the World"
+	file = "Storm_Force_Weight_of_the_World.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Storm Force Marshall Law"
+	file = "Storm_Force_Marshall_Law.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Titan Killer Rockin Until Collapse"
+	file = "Titan_Killer_Rockin_Until_Collapse.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Cryonic Temple Under Attack"
+	file = "Cryonic_Temple_Under_Attack.ogg"
+	volume = 0.65
+}
+music = {
+	name = "UDO Das Musikkorps Der Bundeswehr Future Is the Reason Why"
+	file = "UDO_Das_Musikkorps_Der_Bundeswehr_Future_Is_the_Reason_Why.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tierra Santa Lodo"
+	file = "Tierra_Santa_Lodo.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tierra Santa Hombres sin Tierra"
+	file = "Tierra_Santa_Hombres_sin_Tierra.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tierra Santa Entre el Bien y el Mal"
+	file = "Tierra_Santa_Entre_el_Bien_y_el_Mal.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tierra Santa Apocalipsis"
+	file = "Tierra_Santa_Apocalipsis.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Eclipse The Masquerade"
+	file = "Eclipse_The_Masquerade.ogg"
+	volume = 0.65
+}
+music = {
+	name = "BlackRain Hellfire"
+	file = "BlackRain_Hellfire.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Heat Victory"
+	file = "Heat_Victory.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Heat We Will Never Die"
+	file = "Heat_We_Will_Never_Die.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Blackmayne Tale of Two Cities"
+	file = "Blackmayne_Tale_of_Two_Cities.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Prowess Show Me"
+	file = "Prowess_Show_Me.ogg"
+	volume = 0.70
+}
+music = {
+	name = "Sister Switchblade Come Alive"
+	file = "Sister_Switchblade_Come_Alive.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Killer Dwarfs Comin Through"
+	file = "Killer_Dwarfs_Comin_Through.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Walter Trout Gimme All Your Lovin"
+	file = "Walter_Trout_Gimme_All_Your_Lovin.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Rebel Duck Black Tiger"
+	file = "Rebel_Duck_Black_Tiger.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Darkness Bald"
+	file = "The_Darkness_Bald.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Fumes Cuddle Up With The Devil"
+	file = "The_Fumes_Cuddle_Up_With_The_Devil.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Iggy Pop Power and Freedom"
+	file = "Iggy_Pop_Power_and_Freedom.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Tyketto Forever Young"
+	file = "Tyketto_Forever_Young.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Steve Plunkett Too Hot To Stop"
+	file = "Steve_Plunkett_Too_Hot_To_Stop.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Warlock Fight For Rock"
+	file = "Warlock_Fight_For_Rock.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Warlock All We Are"
+	file = "Warlock_All_We_Are.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Treat Heaven Can Wait"
+	file = "Treat_Heaven_Can_Wait.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Bad Company No Smoke Without a Fire"
+	file = "Bad_Company_No_Smoke_Without_a_Fire.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Billy Idol Rebel Yell"
+	file = "Billy_Idol_Rebel_Yell.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Billy Idol White Wedding"
+	file = "Billy_Idol_White_Wedding.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Status Quo RedSky"
+	file = "Status_Quo_RedSky.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tom Petty Runnin Down A Dream"
+	file = "Tom_Petty_Runnin_Down_A_Dream.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Slade I Hear Ya Callin"
+	file = "Slade_I_Hear_Ya_Callin.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Slade Black and White World"
+	file = "Slade_Black_and_White_World.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Slade Lay Your Love On The Line"
+	file = "Slade_Lay_Your_Love_On_The_Line.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ninth Circle When the Sun Goes Down"
+	file = "Ninth_Circle_When_the_Sun_Goes_Down.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ninth Circle Return of the King"
+	file = "Ninth_Circle_Return_of_the_King.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Thomas Silver Public Eye"
+	file = "Thomas_Silver_Public_Eye.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Thomas Silver D-Day"
+	file = "Thomas_Silver_D_Day.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Thomas Silver On a Night Like This"
+	file = "Thomas_Silver_On_a_Night_Like_This.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Jimi Anderson Group Holdin on to the Night"
+	file = "Jimi_Anderson_Group_Holdin_on_to_the_Night.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Keldian Hyperion"
+	file = "Keldian_Hyperion.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Keldian Crusader"
+	file = "Keldian_Crusader.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Treatment The Fighting Song"
+	file = "The_Treatment_The_Fighting_Song.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Passion Victims of Desire"
+	file = "Passion_Victims_of_Desire.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Shadow Disciples Burn Them All"
+	file = "Shadow_Disciples_Burn_Them_All.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dreamtale Island Of My Heart"
+	file = "Dreamtale_Island_Of_My_Heart.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dreamtale Farewell"
+	file = "Dreamtale_Farewell.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dreamtale Back To The Stars"
+	file = "Dreamtale_Back_To_The_Stars.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dreamtale Angel Of Light"
+	file = "Dreamtale_Angel_Of_Light.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mass Dark Night"
+	file = "Mass_Dark_Night.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Mass Shoot Out"
+	file = "Mass_Shoot_Out.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Mass Back To the Music"
+	file = "Mass_Back_To_the_Music.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Dio Holy Diver"
+	file = "Dio_Holy_Diver.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Angel Sword Break the Chains"
+	file = "Angel_Sword_Break_the_Chains.ogg"
+	volume = 0.60
+}
+music = {
+	name = "Felskinn Our Favourite Game"
+	file = "Felskinn_Our_Favourite_Game.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ruoska Tuonen Viemaa"
+	file = "Ruoska_Tuonen_Viemaa.ogg"
+	volume = 0.50
+}
+music = {
+	name = "Ruoska Vankilani"
+	file = "Ruoska_Vankilani.ogg"
+	volume = 0.50
+}
+music = {
+	name = "Imperia Secret Passion"
+	file = "Imperia_Secret_Passion.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Imperia Like Rain"
+	file = "Imperia_Like_Rain.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Stahlmann Paradies"
+	file = "Stahlmann_Paradies.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Moonspell The Last Of Us"
+	file = "Moonspell_The_Last_Of_Us.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Moonspell Medusalem"
+	file = "Moonspell_Medusalem.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Takida Losing"
+	file = "Takida_Losing.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Takida It s My Life"
+	file = "Takida_It_s_My_Life.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Takida Haven Stay"
+	file = "Takida_Haven_Stay.ogg"
+	volume = 0.65
+}
+music = {
+	name = "In Flames Where The Dead Ships Dwell"
+	file = "In_Flames_Where_The_Dead_Ships_Dwell.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Disturbed Haunted"
+	file = "Disturbed_Haunted.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Black Stone Cherry Soul Machine"
+	file = "Black_Stone_Cherry_Soul_Machine.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Adelitas Way Sick"
+	file = "Adelitas_Way_Sick.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Adelitas Way Ready for War"
+	file = "Adelitas_Way_Ready_for_War.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Adelitas Way Notorious"
+	file = "Adelitas_Way_Notorious.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Evergrey King of Errors"
+	file = "Evergrey_King_of_Errors.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Korpiklaani Lempo"
+	file = "Korpiklaani_Lempo.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Korpiklaani Kotikonnut"
+	file = "Korpiklaani_Kotikonnut.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Shakra Ashes to Ashes"
+	file = "Shakra_Ashes_to_Ashes.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Stahlmann Spring Nicht"
+	file = "Stahlmann_Spring_Nicht.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Otherwise Don t Be Afraid"
+	file = "Otherwise_Don_t_Be_Afraid.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Otherwise Die For You"
+	file = "Otherwise_Die_For_You.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Nine Lashes Anthem Of The Lonely"
+	file = "Nine_Lashes_Anthem_Of_The_Lonely.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Like A Storm Love The Way You Hate Me"
+	file = "Like_A_Storm_Love_The_Way_You_Hate_Me.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Firewind Head Up High"
+	file = "Firewind_Head_Up_High.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Emphatic Get Paid"
+	file = "Emphatic_Get_Paid.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Emphatic Do I"
+	file = "Emphatic_Do_I.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Three Days Grace The End Is Not The Answer"
+	file = "Three_Days_Grace_The_End_Is_Not_The_Answer.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Saint Asonia Let Me Live My Life"
+	file = "Saint_Asonia_Let_Me_Live_My_Life.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Deathlike Silence Trapped In The Night"
+	file = "Deathlike_Silence_Trapped_In_The_Night.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Deathlike Silence Till Death Tears Apart"
+	file = "Deathlike_Silence_Till_Death_Tears_Apart.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Deathlike Silence House On Haunted Hill"
+	file = "Deathlike_Silence_House_On_Haunted_Hill.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Deathlike Silence Face Your Death"
+	file = "Deathlike_Silence_Face_Your_Death.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Deathlike Silence Dagon"
+	file = "Deathlike_Silence_Dagon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bucovina Mestecanis"
+	file = "Bucovina_Mestecanis.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Shakra Cassandras Curse"
+	file = "Shakra_Cassandras_Curse.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Primal Fear Under Your Speel"
+	file = "Primal_Fear_Under_Your_Speel.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Primal Fear King of Madness"
+	file = "Primal_Fear_King_of_Madness.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Primal Fear Fight Against Evil"
+	file = "Primal_Fear_Fight_Against_Evil.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Primal Fear Killbound"
+	file = "Primal_Fear_Killbound.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Axel Rudi Pell Only The Strong Will Survive"
+	file = "Axel_Rudi_Pell_Only_The_Strong_Will_Survive.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Axel Rudi Pell Follow The Sign"
+	file = "Axel_Rudi_Pell_Follow_The_Sign.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Axel Rudi Pell Long Live Rock"
+	file = "Axel_Rudi_Pell_Long_Live_Rock.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Axel Rudi Pell Slaves On The Run"
+	file = "Axel_Rudi_Pell_Slaves_On_The_Run.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Axel Rudi Pell The End Of The Line"
+	file = "Axel_Rudi_Pell_The_End_Of_The_Line.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Running Wild Stick To Your Guns"
+	file = "Running_Wild_Stick_To_Your_Guns.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Running Wild Fire Thunder"
+	file = "Running_Wild_Fire_Thunder.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Running Wild When Time Runs Out"
+	file = "Running_Wild_When_Time_Runs_Out.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Running Wild Powerride"
+	file = "Running_Wild_Powerride.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Emigrate New York City"
+	file = "Emigrate_New_York_City.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Nordic Union When Death Is Calling"
+	file = "Nordic_Union_When_Death_Is_Calling.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Nordic Union The War Has Begun"
+	file = "Nordic_Union_The_War_Has_Begun.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Nordic Union Go"
+	file = "Nordic_Union_Go.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Darkseed Follow Me"
+	file = "Darkseed_Follow_Me.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Darkseed My Burden"
+	file = "Darkseed_My_Burden.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Darkseed The Fall"
+	file = "Darkseed_The_Fall.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dragonfly Dulce veneno"
+	file = "Dragonfly_Dulce_veneno.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sister Sin Shades of Black"
+	file = "Sister_Sin_Shades_of_Black.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sister Sin 24 7"
+	file = "Sister_Sin_24_7.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lake Of Tears You Better Breathe While Theres Still Time"
+	file = "Lake_Of_Tears_You_Better_Breathe_While_Theres_Still_Time.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lake Of Tears Last Purple Sky"
+	file = "Lake_Of_Tears_Last_Purple_Sky.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Black Light Discipline Under The Knife"
+	file = "Black_Light_Discipline_Under_The_Knife.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Black Light Discipline The Way We Wanted"
+	file = "Black_Light_Discipline_The_Way_We_Wanted.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Black Light Discipline For All Your Heavy Hearted"
+	file = "Black_Light_Discipline_For_All_Your_Heavy_Hearted.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Airbourne Heartbreaker"
+	file = "Airbourne_Heartbreaker.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Airbourne Hellfire"
+	file = "Airbourne_Hellfire.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Airbourne Runnin Wild"
+	file = "Airbourne_Runnin_Wild.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Beast In Black End of the World"
+	file = "Beast_In_Black_End_of_the_World.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Beast In Black Eternal Fire"
+	file = "Beast_In_Black_Eternal_Fire.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Beast In Black Hell for All Eternity"
+	file = "Beast_In_Black_Hell_for_All_Eternity.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Beast in Black This Is War"
+	file = "Beast_in_Black_This_Is_War.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bloodbound Fallen Heroes"
+	file = "Bloodbound_Fallen_Heroes.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bloodbound When the Kingdom Will Fall"
+	file = "Bloodbound_When_the_Kingdom_Will_Fall.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bloodbound Stand and Fight"
+	file = "Bloodbound_Stand_and_Fight.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bloodbound Breaking The Beast"
+	file = "Bloodbound_Breaking_The_Beast.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bloodbound March into War"
+	file = "Bloodbound_March_into_War.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bloodbound Gathering of Souls"
+	file = "Bloodbound_Gathering_of_Souls.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dynazty Raise Your Hands"
+	file = "Dynazty_Raise_Your_Hands.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dynazty Sunrise In Hell"
+	file = "Dynazty_Sunrise_In_Hell.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dynazty The Beast Inside"
+	file = "Dynazty_The_Beast_Inside.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dynazty The One To Blame"
+	file = "Dynazty_The_One_To_Blame.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lords of Black Forgive or Forget"
+	file = "Lords_of_Black_Forgive_or_Forget.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lords of Black Nothing Left to Fear"
+	file = "Lords_of_Black_Nothing_Left_to_Fear.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lords Of Black The Art of Illusions"
+	file = "Lords_Of_Black_The_Art_of_Illusions.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lords of Black The World That Came After"
+	file = "Lords_of_Black_The_World_That_Came_After.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lords Of Black The Maker and The Storm"
+	file = "Lords_Of_Black_The_Maker_and_The_Storm.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Power Quest Sacrifice"
+	file = "Power_Quest_Sacrifice.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Stratovarius Shine In The Dark"
+	file = "Stratovarius_Shine_In_The_Dark.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hammerfall We are Gonna Make It"
+	file = "Hammerfall_We_are_Gonna_Make_It.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hammerfall The Templar Flame"
+	file = "Hammerfall_The_Templar_Flame.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hammerfall Stone Cold"
+	file = "Hammerfall_Stone_Cold.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hammerfall Let the Hammer Fall"
+	file = "Hammerfall_Let_the_Hammer_Fall.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hammerfall Crimson Thunder"
+	file = "Hammerfall_Crimson_Thunder.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bonfire Stand or Fall"
+	file = "Bonfire_Stand_or_Fall.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Crystal Ball Loins On Fire"
+	file = "Crystal_Ball_Loins_On_Fire.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Crystal Ball Gentlemans Agreement"
+	file = "Crystal_Ball_Gentlemans_Agreement.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Crystal Ball Hellvetia"
+	file = "Crystal_Ball_Hellvetia.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Fatal Smile My Private Hell"
+	file = "Fatal_Smile_My_Private_Hell.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Fatal Smile Raising Hell In Heaven"
+	file = "Fatal_Smile_Raising_Hell_In_Heaven.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Grailknights Crimson Shades of Glory"
+	file = "Grailknights_Crimson_Shades_of_Glory.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Grailknights Laser Raptor 3D"
+	file = "Grailknights_Laser_Raptor_3D.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Heaven Earth Monster"
+	file = "Heaven_Earth_Monster.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Heaven Earth Walk Away"
+	file = "Heaven_Earth_Walk_Away.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lechery Burning Anger"
+	file = "Lechery_Burning_Anger.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lechery Cross the Line"
+	file = "Lechery_Cross_the_Line.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lechery We All Gonna Rock You Tonight"
+	file = "Lechery_We_All_Gonna_Rock_You_Tonight.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lechery Your Fate"
+	file = "Lechery_Your_Fate.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Herrumbre Heavy Metal"
+	file = "Herrumbre_Heavy_Metal.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Saltatio Mortis Todesengel"
+	file = "Saltatio_Mortis_Todesengel.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Triddana Raging Fire"
+	file = "Triddana_Raging_Fire.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Virgin Steele Victory Is Mine"
+	file = "Virgin_Steele_Victory_Is_Mine.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Virgin Steele The Burning of Rome"
+	file = "Virgin_Steele_The_Burning_of_Rome.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Warcry Muerte o Victoria"
+	file = "Warcry_Muerte_o_Victoria.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Warcry Odio"
+	file = "Warcry_Odio.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mob Rules Hollowed Be Thy Name"
+	file = "Mob_Rules_Hollowed_Be_Thy_Name.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mob Rules Lost"
+	file = "Mob_Rules_Lost.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mob Rules Among the Gods"
+	file = "Mob_Rules_Among_the_Gods.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mob Rules On the Edge"
+	file = "Mob_Rules_On_the_Edge.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mob Rules Ghost Of A Chance"
+	file = "Mob_Rules_Ghost_Of_A_Chance.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dead City Ruins Blue Bastard"
+	file = "Dead_City_Ruins_Blue_Bastard.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dead City Ruins Til Death"
+	file = "Dead_City_Ruins_Til_Death.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Megaherz Komet"
+	file = "Megaherz_Komet.ogg"
+	volume = 0.65
+}
+music = {
+	name = "One Desire Hurt"
+	file = "One_Desire_Hurt.ogg"
+	volume = 0.65
+}
+music = {
+	name = "WET Urgent"
+	file = "WET_Urgent.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Altaria Wrath of a Warchild"
+	file = "Altaria_Wrath_of_a_Warchild.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Altaria Prophet Of Pestilence"
+	file = "Altaria_Prophet_Of_Pestilence.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Altaria Kingdom of the Night"
+	file = "Altaria_Kingdom_of_the_Night.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Oz Heart of a Beast"
+	file = "Oz_Heart_of_a_Beast.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Torrential Thrill Scream"
+	file = "Torrential_Thrill_Scream.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Leverage Superstition"
+	file = "Leverage_Superstition.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Leverage Follow Down That River"
+	file = "Leverage_Follow_Down_That_River.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Leverage Dead Mans Hand"
+	file = "Leverage_Dead_Mans_Hand.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Brainstorm The Four Blessings"
+	file = "Brainstorm_The_Four_Blessings.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Brainstorm Ravenous Minds"
+	file = "Brainstorm_Ravenous_Minds.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Alevela The Madness"
+	file = "Alevela_The_Madness.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Metallica Turn The Page"
+	file = "Metallica_Turn_The_Page.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Metallica Now That Were Dead"
+	file = "Metallica_Now_That_We_re_Dead.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hammer King Warriors of Angelhill"
+	file = "Hammer_King_Warriors_Of_Angelhill.ogg"
+	volume = 0.65
+}
+music = {
+	name = "VIKONT Dve Grozy"
+	file = "VIKONT_Dve_Grozy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "VIKONT Bessmertniy Metal"
+	file = "VIKONT_Bessmertniy_Metal.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Frozen Land Underworld"
+	file = "Frozen_Land_Underworld.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Achelous Warriors With Wings"
+	file = "Achelous_Warriors_With_Wings.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Achelous Gavgamela"
+	file = "Achelous_Gavgamela.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Achelous Gordian Knot"
+	file = "Achelous_Gordian_Knot.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Achelous Macedon"
+	file = "Achelous_Macedon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Herman Frank Are You Ready"
+	file = "Herman_Frank_Are_You_Ready.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Herman Frank Rock You"
+	file = "Herman_Frank_Rock_You.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Herman Frank Fear"
+	file = "Herman_Frank_Fear.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Herman Frank Raise Your Hand"
+	file = "Herman_Frank_Raise_Your_Hand.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Herman Frank Kill the King"
+	file = "Herman_Frank_Kill_the_King.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ivan Ivankovic Across the Lands"
+	file = "Ivan_Ivankovic_Across_the_Lands.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ivan Ivankovic Life Is War"
+	file = "Ivan_Ivankovic_Life_Is_War.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ivan Ivankovic Find Your Own Way"
+	file = "Ivan_Ivankovic_Find_Your_Own_Way.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ivan Ivankovic World In Fear"
+	file = "Ivan_Ivankovic_World_In_Fear.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ivan Ivankovic Save Me"
+	file = "Ivan_Ivankovic_Save_Me.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Wolfpakk Im onto You"
+	file = "Wolfpakk_Im_onto_You.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Phantom 5 Crossfire"
+	file = "Phantom_5_Crossfire.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Powerwolf Touch Of Evil"
+	file = "Powerwolf_Touch_Of_Evil.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Powerwolf Headless Cross"
+	file = "Powerwolf_Headless_Cross.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Iron Fire Judgement Day"
+	file = "Iron_Fire_Judgement_Day.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Guardians Of Time Drawn in Blood"
+	file = "Guardians_Of_Time_Drawn_in_Blood.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Iron Savior Until We Meet Again"
+	file = "Iron_Savior_Until_We_Meet_Again.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Iron Savior From Dust and Ruble"
+	file = "Iron_Savior_From_Dust_and_Ruble.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kee of Hearts Crimson Dawn"
+	file = "Kee_of_Hearts_Crimson_Dawn.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Otherwise Soldiers"
+	file = "Otherwise_Soldiers.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Warrior Song Aquila Natus"
+	file = "The_Warrior_Song_Aquila_Natus.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Grand Magus Triumph And Power"
+	file = "Grand_Magus_Triumph_And_Power.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Grand Magus Steel Versus Steel"
+	file = "Grand_Magus_Steel_Versus_Steel.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Grand Magus Every Day Theres A Battle To Fight"
+	file = "Grand_Magus_Every_Day_Theres_A_Battle_To_Fight.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Grand Magus Dawn of Fire"
+	file = "Grand_Magus_Dawn_of_Fire.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Grand Magus Born for Battle"
+	file = "Grand_Magus_Born_for_Battle.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Arktida Dolg i Pravo"
+	file = "Arktida_Dolg_i_Pravo.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Arktida Ya Vernus"
+	file = "Arktida_Ya_vernus.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Angeliada Zov Voyni"
+	file = "Angeliada_Zov_voyni.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Paragon Mean Machine"
+	file = "Paragon_Mean_Machine.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Manowar Warriors Of The World"
+	file = "Manowar_Warriors_Of_The_World.ogg"
+	volume = 0.65
+}
+music = {
+	name = "WASP Wild Child"
+	file = "WASP_Wild_Child.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Emerald Cad Goddeu"
+	file = "Emerald_Cad_Goddeu.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Emerald Valley of Death"
+	file = "Emerald_Valley_of_Death.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Butusov Mater Bogov"
+	file = "Butusov_Mater_Bogov.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Nautilius Pompilius Krilya"
+	file = "Nautilius_Pompilius_Krilya.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Cherniy Obelisk Oborona"
+	file = "Cherniy_Obelisk_Oborona.ogg"
+	volume = 0.55
+}
+music = {
+	name = "Cherniy Obelisk Stoy i Smotri"
+	file = "Cherniy_Obelisk_Stoy_i_Smotri.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Cherniy Obelisk Ded"
+	file = "Cherniy_Obelisk_Ded.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Korsika Vozduha Net"
+	file = "Korsika_Vozduha_Net.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Korsika NeverLand"
+	file = "Korsika_NeverLand.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Korsika Ostatsa v Jivih"
+	file = "Korsika_Ostatsa_v_Jivih.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Korsika Pustoy Peron"
+	file = "Korsika_Pustoy_Peron.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pavel Plamenev Uhoju"
+	file = "Pavel_Plamenev_Uhoju.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pavel Plamenev Soldatami ne Rozdayutsa"
+	file = "Pavel_Plamenev_Soldatami_ne_Rozdayutsa.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pavel Plamenev Noch Pered Boem"
+	file = "Pavel_Plamenev_Noch_Pered_Boem.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Legenda Roza Vetrov"
+	file = "Legenda_Roza_Vetrov.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Citadel Citadel"
+	file = "Citadel_Citadel.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Aleksey Matov Nas Otsuda Ne Podvinut"
+	file = "Aleksey_Matov_Nas_Otsuda_Ne_Podvinut.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Nebesa Obrechenniy"
+	file = "Nebesa_Obrechenniy.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Nebesa Navstrechu Smerti"
+	file = "Nebesa_Navstrechu_Smerti.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Lutavierje Dzikaje Paliavannie"
+	file = "Lutavierje_Dzikaje_Paliavannie.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lutavierje A Slavienie Dy Rosie"
+	file = "Lutavierje_A_Slavienie_Dy_Rosie.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Chur Staret"
+	file = "Chur_Staret.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Chur Four Faced"
+	file = "Chur_Four_Faced.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Alkonost Reka"
+	file = "Alkonost_Reka.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Alkonost Rusalka"
+	file = "Alkonost_Rusalka.ogg"
+	volume = 0.65
+}
+music = {
+	name = "By Effect Legion"
+	file = "By_Effect_Legion.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tin Soncia Gromom i Vognem"
+	file = "Tin_Soncia_Gromom_i_Vognem.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tin Soncia Narodna Viyna"
+	file = "Tin_Soncia_Narodna_Viyna.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Harizma Delay Rok"
+	file = "Harizma_Delay_Rok.ogg"
+	volume = 0.55
+}
+music = {
+	name = "Harizma Moy Nazvanniy Brat"
+	file = "Harizma_Moy_Nazvanniy_Brat.ogg"
+	volume = 0.55
+}
+music = {
+	name = "Avenged Sevenfold Hail to the King"
+	file = "Avenged_Sevenfold_Hail_to_the_King.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Avenged Sevenfold Coming Home"
+	file = "Avenged_Sevenfold_Coming_Home.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Blazon Stone Iron Fist Of Rock"
+	file = "Blazon_Stone_Iron_Fist_Of_Rock.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Majesty Troopers of Steel"
+	file = "Majesty_Troopers_of_Steel.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Majesty We Are Legends"
+	file = "Majesty_We_Are_Legends.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Narnia MNFST"
+	file = "Narnia_MNFST.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Civil War Dead Mans Glory"
+	file = "Civil_War_Dead_Mans_Glory.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Forlorn Hope Vive lempereur"
+	file = "Forlorn_Hope_Vive_lempereur.ogg"
+	volume = 0.95
+}
+music = {
+	name = "Forlorn Hope War in the Shadows"
+	file = "Forlorn_Hope_War_in_the_Shadows.ogg"
+	volume = 0.95
+}
+music = {
+	name = "Sabaton Angels Calling Feat Apocalyptica"
+	file = "Sabaton_Angels_Calling_Feat_Apocalyptica.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sabaton Dreadnought"
+	file = "Sabaton_Dreadnought.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sabaton Race to the Sea"
+	file = "Sabaton_Race_to_the_Sea.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sabaton Soldier of Heaven"
+	file = "Sabaton_Soldier_of_Heaven.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sabaton Hellfighters"
+	file = "Sabaton_Hellfighters.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Allen Lande The Showdown"
+	file = "Allen_Lande_The_Showdown.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Allen Lande Hymn to the Fallen"
+	file = "Allen_Lande_Hymn_to_the_Fallen.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Witchbound To Search for the Grail"
+	file = "Witchbound_To_Search_for_the_Grail.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pink Cream 69 Talk To The Moon"
+	file = "Pink_Cream_69_Talk_To_The_Moon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Accept Koolaid"
+	file = "Accept_Koolaid.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Accept The Curse"
+	file = "Accept_The_Curse.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Accept Wanna Be Free"
+	file = "Accept_Wanna_Be_Free.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Accept Shadow Soldiers"
+	file = "Accept_Shadow_Soldiers.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Accept Princess Of The Dawn"
+	file = "Accept_Princess_Of_The_Dawn.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pretty Maids We Came To Rock"
+	file = "Pretty_Maids_We_Came_To_Rock.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pretty Maids Red Hot and Heavy"
+	file = "Pretty_Maids_Red_Hot_and_Heavy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ron Keel Band Rock N Roll Guitar"
+	file = "Ron_Keel_Band_Rock_N_Roll_Guitar.ogg"
+	volume = 0.55
+}
+music = {
+	name = "Ron Keel Band Fight Like a Band"
+	file = "Ron_Keel_Band_Fight_Like_a_Band.ogg"
+	volume = 0.65
+}
+music = {
+	name = "LA Guns Over The Edge"
+	file = "LA_Guns_Over_The_Edge.ogg"
+	volume = 0.65
+}
+music = {
+	name = "AC DC Big Gun"
+	file = "AC_DC_Big_Gun.ogg"
+	volume = 0.65
+}
+music = {
+	name = "AC DC War Machine"
+	file = "AC_DC_War_Machine.ogg"
+	volume = 0.65
+}
+music = {
+	name = "AC DC Hard as a Rock"
+	file = "AC_DC_Hard_as_a_Rock.ogg"
+	volume = 0.65
+}
+music = {
+	name = "AC DC Rock or Bust"
+	file = "AC_DC_Rock_or_Bust.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hard Riot Not Alone"
+	file = "Hard_Riot_Not_Alone.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Iron Maiden The Red and the Black"
+	file = "Iron_Maiden_The_Red_and_the_Black.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Iron Maiden Fortunes of War"
+	file = "Iron_Maiden_Fortunes_of_War.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Iron Maiden Blood Brothers"
+	file = "Iron_Maiden_Blood_Brothers.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Phoenix Titan Ride for Vengeance"
+	file = "Phoenix_Titan_Ride_for_Vengeance.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Phoenix Titan Metal Shark"
+	file = "Phoenix_Titan_Metal_Shark.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Excalion The Flags in Line"
+	file = "Excalion_The_Flags_in_Line.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Excalion Marching Masquerade"
+	file = "Excalion_Marching_Masquerade.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Excalion The Wingman"
+	file = "Excalion_The_Wingman.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Excalion Life on Fire"
+	file = "Excalion_Life_on_Fire.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Krokus Rockin in the Free World"
+	file = "Krokus_Rockin_in_the_Free_World.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Krokus Hoodoo Woman"
+	file = "Krokus_Hoodoo_Woman.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Krokus Born To Be Wild"
+	file = "Krokus_Born_To_Be_Wild.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Crystal Eyes Warrior"
+	file = "Crystal_Eyes_Warrior.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Crystal Eyes Side by Side"
+	file = "Crystal_Eyes_Side_by_Side.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Nightwish She Is My Sin"
+	file = "Nightwish_She_Is_My_Sin.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Nightwish Wishmaster"
+	file = "Nightwish_Wishmaster.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Crows Flight Circle of Pain"
+	file = "Crows_Flight_Circle_of_Pain.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Great Master Over the Seas"
+	file = "Great_Master_Over_the_Seas.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tygers Of Pan Tang Rescue Me"
+	file = "Tygers_Of_Pan_Tang_Rescue_Me.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Serenity Set the World on Fire"
+	file = "Serenity_Set_the_World_on_Fire.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Strider Prevail And Conquer"
+	file = "Strider_Prevail_And_Conquer.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Striker The Front"
+	file = "Striker_The_Front.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Lazys Nothing but Trouble"
+	file = "The_Lazys_Nothing_but_Trouble.ogg"
+	volume = 0.55
+}
+music = {
+	name = "Gotthard Save the Date"
+	file = "Gotthard_Save_the_Date.ogg"
+	volume = 0.55
+}
+music = {
+	name = "Black Sun Rollin"
+	file = "Black_Sun_Rollin.ogg"
+	volume = 0.55
+}
+music = {
+	name = "Argion Soldado Errante"
+	file = "Argion_Soldado_Errante.ogg"
+	volume = 0.55
+}
+music = {
+	name = "Argion Sobre el Mar"
+	file = "Argion_Sobre_el_Mar.ogg"
+	volume = 0.55
+}
+music = {
+	name = "Ancillotti We Are Coming"
+	file = "Ancillotti_We_Are_Coming.ogg"
+	volume = 0.55
+}
+music = {
+	name = "Stargazery I Am the Night"
+	file = "Stargazery_I_Am_the_Night.ogg"
+	volume = 0.55
+}
+music = {
+	name = "Stargazery Caught in the Crossfire"
+	file = "Stargazery_Caught_in_the_Crossfire.ogg"
+	volume = 0.55
+}
+music = {
+	name = "King Leoric Warriors Tune"
+	file = "King_Leoric_Warriors_Tune.ogg"
+	volume = 0.65
+}
+music = {
+	name = "King Leoric Thunderforce"
+	file = "King_Leoric_Thunderforce.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Re Machined Brother Sun Sister Moon"
+	file = "Re_Machined_Brother_Sun_Sister_Moon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Re Machined Heart on Fire"
+	file = "Re_Machined_Heart_on_Fire.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Feuerschwanz Krieger des Mets"
+	file = "Feuerschwanz_Krieger_des_Mets.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Feuerschwanz I See Fire"
+	file = "Feuerschwanz_I_See_Fire.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Imperivm Time to Fight"
+	file = "Imperivm_Time_to_Fight.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Imperivm In a Holy War"
+	file = "Imperivm_In_a_Holy_War.ogg"
+	volume = 0.65
+}
+music = {
+	name = "March in Arms Welcome the Blitz"
+	file = "March_in_Arms_Welcome_the_Blitz.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mad Max Sons of Anarchy"
+	file = "Mad_Max_Sons_of_Anarchy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mad Max Kingdom Fall"
+	file = "Mad_Max_Kingdom_Fall.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mad Max Ladies and Gentlemen"
+	file = "Mad_Max_Ladies_and_Gentlemen.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Carnal Agony The Witching Hour"
+	file = "Carnal_Agony_The_Witching_Hour.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Carnal Agony Werewolf of Steel"
+	file = "Carnal_Agony_Werewolf_of_Steel.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Carnal Agony The Cellardoor"
+	file = "Carnal_Agony_The_Cellardoor.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Iron Mask Forever in the Dark"
+	file = "Iron_Mask_Forever_in_the_Dark.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Iron Mask We Will Meet Again"
+	file = "Iron_Mask_We_Will_Meet_Again.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Iron Mask Tree of the World"
+	file = "Iron_Mask_Tree_of_the_World.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Cholane Unchained"
+	file = "Cholane_Unchained.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Cholane Masters And Slaves"
+	file = "Cholane_Masters_And_Slaves.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Crown Of Glory Savior"
+	file = "Crown_Of_Glory_Savior.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Battle Born Man of War"
+	file = "Battle_Born_Man_of_War.ogg"
+	volume = 0.65
+}
+music = {
+	name = "MSG Sail the Darkness"
+	file = "MSG_Sail_the_Darkness.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ross The Boss Shining Path"
+	file = "Ross_The_Boss_Shining_Path.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Blackowl Dont Stop"
+	file = "Blackowl_Dont_Stop.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Blackowl Napoli Street"
+	file = "Blackowl_Napoli_Street.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Guns N Roses Civil War"
+	file = "Guns_N_Roses_Civil_War.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Old Gods of Asgard Balance Slays the Demon"
+	file = "Old_Gods_of_Asgard_Balance_Slays_the_Demon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kryptos Force Of Danger"
+	file = "Kryptos_Force_Of_Danger.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kryptos Full Throttle"
+	file = "Kryptos_Full_Throttle.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Record Company Life To Fix"
+	file = "The_Record_Company_Life_To_Fix.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Johnny Firebird My Favourite Game"
+	file = "Johnny_Firebird_My_Favourite_Game.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Offspring Million Miles Away"
+	file = "The_Offspring_Million_Miles_Away.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Horisont Electrical"
+	file = "Horisont_Electrical.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Chelsea Smile Nowhere Ride"
+	file = "The_Chelsea_Smile_Nowhere_Ride.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Native 51 Fire To The Night"
+	file = "Native_51_Fire_To_The_Night.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Blitz Union The Truth"
+	file = "Blitz_Union_The_Truth.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Royal Deluxe Born for This"
+	file = "Royal_Deluxe_Born_for_This.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Oh The Larceny Man on a Mission"
+	file = "Oh_The_Larceny_Man_on_a_Mission.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Steel Woods All of These Years"
+	file = "The_Steel_Woods_All_of_These_Years.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Steel Woods Hole in the Sky"
+	file = "The_Steel_Woods_Hole_in_the_Sky.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Through Fire Stronger"
+	file = "Through_Fire_Stronger.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Victory Dying In Your Arms"
+	file = "Victory_Dying_In_Your_Arms.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kotipelto Reasons"
+	file = "Kotipelto_Reasons.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Eagles Of Death Metal God Of Thunder"
+	file = "Eagles_Of_Death_Metal_God_Of_Thunder.ogg"
+	volume = 0.75
+}

@@ -1,0 +1,5682 @@
+# Peace ##################
+
+music_station = "rmae"
+
+music = {
+	song = "Mihail Kostilev To Li Legenda To Li Mif"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Wodkah The Last Butterfly"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Withering Sun Indomitable"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "The Privateer Preamble"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Roman Heuser No One Leaves"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Revolt Production Music My Journey"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "John Dreamer Rise"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Fearless Motivation The Captain"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Fearless Motivation Revival"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Concors Max Cameron Releasing The Beast"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "GRV Music Audiomachine Motoneuron"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Brickwall Audio Night Hunter"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Mark Petrie Surpass"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Mark Petrie Richat"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Atom Music Audio Running for It"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Philipp Beesen Heroes"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Night Before a Battle Instrumental"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Jannerwein Instrumental"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Apocalyptica Nothing Else Matters"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Skullboogey Another Fool"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Avi Kaplan Aberdeen"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Sleipnir Unbekannter Soldat"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Pretty Maids Little Drops Of Heaven"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Mob Rules Sunrise"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Seether Fine Again"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Saltatio Mortis Nachts weinen die Soldaten"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Bonfire Crazy over You"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Perfect Plan Never Surrender"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Perfect Plan Too Late"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Saints N Sinners Lost Horizons"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Five Finger Death Punch When The Seasons Change"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Five Finger Death Punch Wrong Side of Heaven"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Herman Frank Lost in Heaven"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Theory Of A Deadman Angel"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "dArtagnan Wallenstein"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "dArtagnan Fur immer Dein"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Sonne Hagal Hidden Flame"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Sonne Hagal Who Has Seen The Wind"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Rome One Lions Roar"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Rome A New Unfolding"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Rome The West Knows Best"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Lord Of The Lost The Measure of All Things"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Lord Of The Lost In the Field of Blood"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Paul Brady The Forest Rangers Gimme Shelter"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Solblot Medborgarsang"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Johnny Cash Gods Gonna Cut You Down"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Changes We Went to Find the Sun"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Darkwood Deutsche Sonnwend"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Darkwood Der Falken Flug"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Me And That Man On the Road"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Voyna Obyknovenniy Fashizm"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Stas Konopliannikov 6 Rota"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Satisfakciya Ya Ubit Podo Rzhevom"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "UDO Cry Soldier Cry"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "WASP Heaven Hung in Black"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "The White Buffalo Where Is Your Savior"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "The White Buffalo The House of The Rising Sun"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Great White Eye of the Tiger"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Great White Step On You"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Jamie N Commons Glory"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Lynyrd Skynyrd Preacher Man"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "John Hiatt Perfectly Good Guitar"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Billy Valentine All Along the Watchtower"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Skolot Solnishko"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Skolot Podnimi Glaza"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Billy Ray Cyrus Guns Gold and Guitars"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "John Mellencamp To The River"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Svarga Na Moem Beregu"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Svarga Veter v Ivah"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Sergiy Vasiluk U Nebi Vilnogo Vitru"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Forseti Wind"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Bob Dylan Masters of War"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Alisa Trassa E-95"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Faun Blaue Stunde"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Faun Walpurgisnacht"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Sturmwehr Our Fate"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Sturmwehr Freundschaft"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Sturmwehr Patriot"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "The Fumes Seven Year Itch"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "The Brothers Bright Blood On My Name"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Blutbanner Sturz des Blutgerichts"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Blutbanner 1942"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = no
+		}		
+	}	
+}
+
+
+# War ####################
+
+music = {
+	song = "Louis Viallet Adrenaline"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Mark Petrie Aurora"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Brian Tyler Choker"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Kari Sigurdsson Ascension"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Monolith Instrumental"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Mihail Kostilev Stoyat Namertvo"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Zywiolak Andrius Klimka Andrey Kulik Studzianki"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Gleipnir Combat"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Alpine Hock Tonight We Fight"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Alpine Hock Feudal Attitude"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Full Strike We will rise"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Full Strike Master of my soul"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Full Strike Force Of The World"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Noplies Break the Silence"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Noplies City of Crime"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Noplies Colors"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Human Fortress Defenders of the Crown"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Storm Force Ringside"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Storm Force Age of Fear"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Storm Force Weight of the World"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Storm Force Marshall Law"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Titan Killer Rockin Until Collapse"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Cryonic Temple Under Attack"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "UDO Das Musikkorps Der Bundeswehr Future Is the Reason Why"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Tierra Santa Lodo"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Tierra Santa Hombres sin Tierra"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Tierra Santa Entre el Bien y el Mal"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Tierra Santa Apocalipsis"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Eclipse The Masquerade"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "BlackRain Hellfire"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Heat Victory"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Heat We Will Never Die"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Blackmayne Tale of Two Cities"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Prowess Show Me"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Sister Switchblade Come Alive"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Killer Dwarfs Comin Through"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Walter Trout Gimme All Your Lovin"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Rebel Duck Black Tiger"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "The Darkness Bald"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "The Fumes Cuddle Up With The Devil"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Iggy Pop Power and Freedom"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Tyketto Forever Young"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Steve Plunkett Too Hot To Stop"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Warlock Fight For Rock"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Warlock All We Are"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Treat Heaven Can Wait"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Bad Company No Smoke Without a Fire"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Billy Idol Rebel Yell"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Billy Idol White Wedding"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Status Quo RedSky"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Tom Petty Runnin Down A Dream"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Slade I Hear Ya Callin"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Slade Black and White World"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Slade Lay Your Love On The Line"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Ninth Circle When the Sun Goes Down"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Ninth Circle Return of the King"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Thomas Silver Public Eye"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Thomas Silver D-Day"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Thomas Silver On a Night Like This"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Jimi Anderson Group Holdin on to the Night"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Keldian Hyperion"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Keldian Crusader"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "The Treatment The Fighting Song"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Passion Victims of Desire"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Shadow Disciples Burn Them All"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Dreamtale Island Of My Heart"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Dreamtale Farewell"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Dreamtale Back To The Stars"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Dreamtale Angel Of Light"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Mass Dark Night"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Mass Shoot Out"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Mass Back To the Music"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Dio Holy Diver"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Angel Sword Break the Chains"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Felskinn Our Favourite Game"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Ruoska Tuonen Viemaa"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Ruoska Vankilani"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Imperia Secret Passion"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Imperia Like Rain"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Stahlmann Paradies"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Stahlmann Spring Nicht"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Moonspell The Last Of Us"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Moonspell Medusalem"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Takida Losing"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Takida It s My Life"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Takida Haven Stay"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "In Flames Where The Dead Ships Dwell"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Disturbed Haunted"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Black Stone Cherry Soul Machine"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Adelitas Way Sick"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Adelitas Way Notorious"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Adelitas Way Ready for War"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Evergrey King of Errors"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Korpiklaani Lempo"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Korpiklaani Kotikonnut"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Shakra Ashes to Ashes"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Otherwise Don t Be Afraid"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Otherwise Die For You"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Nine Lashes Anthem Of The Lonely"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Like A Storm Love The Way You Hate Me"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Firewind Head Up High"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Emphatic Get Paid"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Emphatic Do I"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Three Days Grace The End Is Not The Answer"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Saint Asonia Let Me Live My Life"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Deathlike Silence Trapped In The Night"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Deathlike Silence Till Death Tears Apart"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Deathlike Silence House On Haunted Hill"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Deathlike Silence Face Your Death"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Deathlike Silence Dagon"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Bucovina Mestecanis"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Shakra Cassandras Curse"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Primal Fear Under Your Speel"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Primal Fear King of Madness"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Primal Fear Fight Against Evil"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Primal Fear Killbound"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Axel Rudi Pell Only The Strong Will Survive"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Axel Rudi Pell Follow The Sign"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Axel Rudi Pell Long Live Rock"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Axel Rudi Pell Slaves On The Run"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Axel Rudi Pell The End Of The Line"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Running Wild Stick To Your Guns"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Running Wild Fire Thunder"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Running Wild When Time Runs Out"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Running Wild Powerride"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Emigrate New York City"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Nordic Union When Death Is Calling"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Nordic Union The War Has Begun"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Nordic Union Go"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Darkseed Follow Me"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Darkseed My Burden"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Darkseed The Fall"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Dragonfly Dulce veneno"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Sister Sin Shades of Black"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Sister Sin 24 7"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Lake Of Tears You Better Breathe While Theres Still Time"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Lake Of Tears Last Purple Sky"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Black Light Discipline Under The Knife"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Black Light Discipline The Way We Wanted"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Black Light Discipline For All Your Heavy Hearted"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Airbourne Heartbreaker"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Airbourne Hellfire"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Airbourne Runnin Wild"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Beast In Black End of the World"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Beast In Black Eternal Fire"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Beast In Black Hell for All Eternity"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Beast in Black This Is War"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Bloodbound Fallen Heroes"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Bloodbound When the Kingdom Will Fall"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Bloodbound Stand and Fight"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Bloodbound Breaking The Beast"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Bloodbound March into War"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Bloodbound Gathering of Souls"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Dynazty Raise Your Hands"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Dynazty Sunrise In Hell"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Dynazty The Beast Inside"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Dynazty The One To Blame"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Lords of Black Forgive or Forget"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Lords of Black Nothing Left to Fear"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Lords Of Black The Art of Illusions"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Lords of Black The World That Came After"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Lords Of Black The Maker and The Storm"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Power Quest Sacrifice"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Stratovarius Shine In The Dark"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Hammerfall We are Gonna Make It"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Hammerfall The Templar Flame"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Hammerfall Stone Cold"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Hammerfall Let the Hammer Fall"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Hammerfall Crimson Thunder"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Bonfire Stand or Fall"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Crystal Ball Loins On Fire"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Crystal Ball Gentlemans Agreement"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Crystal Ball Hellvetia"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Fatal Smile My Private Hell"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Fatal Smile Raising Hell In Heaven"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Grailknights Crimson Shades of Glory"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Grailknights Laser Raptor 3D"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Heaven Earth Monster"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Heaven Earth Walk Away"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Lechery Burning Anger"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Lechery Cross the Line"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Lechery We All Gonna Rock You Tonight"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Lechery Your Fate"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Herrumbre Heavy Metal"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Saltatio Mortis Todesengel"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Triddana Raging Fire"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Virgin Steele Victory Is Mine"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Virgin Steele The Burning of Rome"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Warcry Muerte o Victoria"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Warcry Odio"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Mob Rules Hollowed Be Thy Name"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Mob Rules Lost"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Mob Rules Among the Gods"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Mob Rules On the Edge"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Mob Rules Ghost Of A Chance"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Dead City Ruins Blue Bastard"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Dead City Ruins Til Death"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Megaherz Komet"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "One Desire Hurt"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "WET Urgent"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Altaria Wrath of a Warchild"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Altaria Prophet Of Pestilence"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Altaria Kingdom of the Night"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Oz Heart of a Beast"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Torrential Thrill Scream"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Leverage Superstition"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Leverage Follow Down That River"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Leverage Dead Mans Hand"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Brainstorm The Four Blessings"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Brainstorm Ravenous Minds"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Alevela The Madness"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Metallica Turn The Page"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Metallica Now That Were Dead"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Hammer King Warriors of Angelhill"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "VIKONT Dve Grozy"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "VIKONT Bessmertniy Metal"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Frozen Land Underworld"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Achelous Warriors With Wings"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Achelous Gavgamela"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Achelous Gordian Knot"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Achelous Macedon"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Herman Frank Are You Ready"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Herman Frank Rock You"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Herman Frank Fear"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Herman Frank Raise Your Hand"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Herman Frank Kill the King"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Ivan Ivankovic Across the Lands"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Ivan Ivankovic Life Is War"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Ivan Ivankovic Find Your Own Way"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Ivan Ivankovic World In Fear"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Ivan Ivankovic Save Me"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Wolfpakk Im onto You"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Phantom 5 Crossfire"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Powerwolf Touch Of Evil"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Powerwolf Headless Cross"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Iron Fire Judgement Day"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Guardians Of Time Drawn in Blood"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Iron Savior Until We Meet Again"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Iron Savior From Dust and Ruble"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Kee of Hearts Crimson Dawn"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Otherwise Soldiers"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "The Warrior Song Aquila Natus"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Grand Magus Triumph And Power"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Grand Magus Steel Versus Steel"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Grand Magus Every Day Theres A Battle To Fight"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Grand Magus Dawn of Fire"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Grand Magus Born for Battle"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Arktida Dolg i Pravo"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Arktida Ya Vernus"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Angeliada Zov Voyni"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Paragon Mean Machine"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Manowar Warriors Of The World"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "WASP Wild Child"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Emerald Cad Goddeu"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Emerald Valley of Death"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Butusov Mater Bogov"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Nautilius Pompilius Krilya"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Cherniy Obelisk Oborona"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Cherniy Obelisk Stoy i Smotri"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Cherniy Obelisk Ded"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Korsika Vozduha Net"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Korsika NeverLand"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Korsika Ostatsa v Jivih"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Korsika Pustoy Peron"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Pavel Plamenev Uhoju"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Pavel Plamenev Soldatami ne Rozdayutsa"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Pavel Plamenev Noch Pered Boem"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Legenda Roza Vetrov"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Citadel Citadel"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Aleksey Matov Nas Otsuda Ne Podvinut"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Nebesa Obrechenniy"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Nebesa Navstrechu Smerti"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Lutavierje Dzikaje Paliavannie"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Lutavierje A Slavienie Dy Rosie"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Chur Staret"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Chur Four Faced"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Alkonost Reka"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Alkonost Rusalka"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "By Effect Legion"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Tin Soncia Gromom i Vognem"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Tin Soncia Narodna Viyna"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Harizma Delay Rok"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Harizma Moy Nazvanniy Brat"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Avenged Sevenfold Hail to the King"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Avenged Sevenfold Coming Home"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Blazon Stone Iron Fist Of Rock"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Majesty Troopers of Steel"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Majesty We Are Legends"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Narnia MNFST"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Civil War Dead Mans Glory"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Forlorn Hope Vive lempereur"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Forlorn Hope War in the Shadows"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Sabaton Angels Calling Feat Apocalyptica"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Sabaton Dreadnought"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Sabaton Race to the Sea"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Sabaton Soldier of Heaven"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Sabaton Hellfighters"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Allen Lande The Showdown"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Allen Lande Hymn to the Fallen"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Witchbound To Search for the Grail"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Pink Cream 69 Talk To The Moon"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Accept Koolaid"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Accept The Curse"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Accept Wanna Be Free"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Accept Shadow Soldiers"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Accept Princess Of The Dawn"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Pretty Maids We Came To Rock"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Pretty Maids Red Hot and Heavy"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Ron Keel Band Rock N Roll Guitar"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Ron Keel Band Fight Like a Band"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "LA Guns Over The Edge"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "AC DC Big Gun"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "AC DC War Machine"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "AC DC Hard as a Rock"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "AC DC Rock or Bust"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Hard Riot Not Alone"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Iron Maiden The Red and the Black"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Iron Maiden Fortunes of War"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Iron Maiden Blood Brothers"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Phoenix Titan Ride for Vengeance"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Phoenix Titan Metal Shark"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Excalion The Flags in Line"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Excalion Marching Masquerade"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Excalion The Wingman"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Excalion Life on Fire"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Krokus Rockin in the Free World"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Krokus Hoodoo Woman"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Krokus Born To Be Wild"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Crystal Eyes Warrior"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Crystal Eyes Side by Side"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Nightwish She Is My Sin"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Nightwish Wishmaster"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Crows Flight Circle of Pain"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Great Master Over the Seas"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Tygers Of Pan Tang Rescue Me"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Serenity Set the World on Fire"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Strider Prevail And Conquer"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Striker The Front"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "The Lazys Nothing but Trouble"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Gotthard Save the Date"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Black Sun Rollin"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Argion Soldado Errante"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Argion Sobre el Mar"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Ancillotti We Are Coming"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Stargazery I Am the Night"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Stargazery Caught in the Crossfire"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "King Leoric Warriors Tune"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "King Leoric Thunderforce"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Re Machined Brother Sun Sister Moon"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Re Machined Heart on Fire"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Feuerschwanz Krieger des Mets"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Feuerschwanz I See Fire"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Imperivm Time to Fight"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Imperivm In a Holy War"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "March in Arms Welcome the Blitz"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Mad Max Sons of Anarchy"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Mad Max Kingdom Fall"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Mad Max Ladies and Gentlemen"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Carnal Agony The Witching Hour"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Carnal Agony Werewolf of Steel"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Carnal Agony The Cellardoor"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Iron Mask Forever in the Dark"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Iron Mask We Will Meet Again"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Iron Mask Tree of the World"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Cholane Unchained"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Cholane Masters And Slaves"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Crown Of Glory Savior"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Battle Born Man of War"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "MSG Sail the Darkness"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Ross The Boss Shining Path"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Blackowl Dont Stop"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Blackowl Napoli Street"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Guns N Roses Civil War"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Old Gods of Asgard Balance Slays the Demon"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Kryptos Force Of Danger"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Kryptos Full Throttle"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "The Record Company Life To Fix"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Johnny Firebird My Favourite Game"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "The Offspring Million Miles Away"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Horisont Electrical"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "The Chelsea Smile Nowhere Ride"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Native 51 Fire To The Night"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Blitz Union The Truth"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Royal Deluxe Born for This"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Oh The Larceny Man on a Mission"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "The Steel Woods All of These Years"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "The Steel Woods Hole in the Sky"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Through Fire Stronger"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Victory Dying In Your Arms"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Kotipelto Reasons"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Eagles Of Death Metal God Of Thunder"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has war = yes
+		}		
+	}	
+}
